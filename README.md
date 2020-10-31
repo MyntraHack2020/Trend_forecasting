@@ -1,11 +1,8 @@
-# Trend_forecasting
-To predict trending Fashion
-
-# FashionTrends
+# Trend Forecasting
 This project is an effort to predict fashion trends over time using machine learning. Currently, I am able to classify different types of clothing (Shirts, Skirts, Pants, Dress) using images webscraped from chictopia.com, instagram and training a model built using Keras.
 
 # Avantages of Predictiong fashion trends
-* Allow retailers to better their logistics for storage/shipping of clothes.
+* Allow retailers to enhance their logistics for storage/shipping of clothes.
 * Right now, retailers use sales along with results from fashion shows/blogs to determine what clothes would be useful for fashion.
 * This project could add a new dimension of analytics for such retailers (being able to use social media to predict demand possibly).
 
